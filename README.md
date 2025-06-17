@@ -15,7 +15,7 @@ Defend your CPU, keep your temperature in check, mine crypto for upgrades, and d
 
 - **C++**
 - **SFML (Simple and Fast Multimedia Library)**
-- Fully coded from scratch — no engines, no frameworks
+- Fully coded from scratch — no engines
 - Hand-designed assets and game logic
 
 ## Screenshots
