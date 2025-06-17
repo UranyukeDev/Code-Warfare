@@ -1,6 +1,6 @@
 # Code Warfare
 
-A retro Tower Defense game coded from scratch in C++ with SFML that I made when I was 14. The code is probably terrible.
+A retro Tower Defense game coded from scratch in C++ with SFML that I made when I was 15. The code is probably terrible.
 
 ---
 
